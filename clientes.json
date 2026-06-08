@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "titular": "adasd",
+        "agencia": "dadas",
+        "numero": "2165-6",
+        "cpf": "1234567",
+        "saldo": 0,
+        "senha": 857022,
+        "chavepix": []
+    },
+    {
+        "titular": "zzzz",
+        "agencia": "gaga",
+        "numero": "4281-5",
+        "cpf": "356346",
+        "saldo": 0,
+        "senha": 720081,
+        "chavepix": []
+    },
+    {
+        "titular": "1231",
+        "agencia": "lklk",
+        "numero": "5022-9",
+        "cpf": "098765",
+        "saldo": 0,
+        "senha": 388676,
+        "chavepix": []
+    }
+]
